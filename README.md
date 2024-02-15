@@ -1,2 +1,6 @@
 # MSc-Computer-Science-Project
-A project for completing my MSc in Computer Science. To learn more read the README file. Thanks
+A project for completing my MSc in Computer Science. This project is a AR based project, that tackles the food waste and sustainibilty issues that most humans are unaware of. This project is mainly aimed are children between the ages of 12-14, as I see them as the real change for the future. With that said, if they are never taught about these issues, then they may go blind to them their whole lives and follow in the footsteps of the generation above them, just as we did. I have been working in a Irish-Medium high school for the past 8 years and the food waste is horrendous to say the least, the amount of food that goes to waste daily, while others are starving in the world is something that must be changed, nevermind the enviornmental issues that food waste causes.
+
+This project is a fun, interactive learning enviornment but also sends a powerful message that we cannot carry on like this. While developing this project, I have also been researching the effects of AR technologies in education and the results are generally very positive and I hope this app could make a positive impact in education and complement the traditional method of teaching.
+
+Thanks
